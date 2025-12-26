@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Suhana Chauhan 👋
 
 ### 🚀 Aspiring Frontend Developer | MERN Stack Learner
