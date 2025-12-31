@@ -26,7 +26,7 @@ I am a frontend-focused developer passionate about building functional and clean
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhana783&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhana783&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana783&layout=compact)
 
 ---
