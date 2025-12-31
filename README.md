@@ -24,11 +24,10 @@ I am a frontend-focused developer passionate about building functional and clean
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Suhana783&show_icons=true&theme=rose&hide_border=true" alt="Suhana's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana783&layout=compact&theme=rose&hide_border=true" alt="Top Langs" height="150" />
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhana783&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana783&layout=compact)
 
 ---
 
