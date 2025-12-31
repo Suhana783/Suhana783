@@ -1,6 +1,6 @@
 # Hi, I'm Suhana Chauhan 👋
 
-### 🚀 Aspiring Frontend Developer | MERN Stack Learner
+### 🚀 Frontend Developer | Exploring MERN Stack
 I am a frontend-focused developer passionate about building functional and clean web applications. Currently, I'm strengthening my **React** foundation and exploring the **MERN** stack to understand full-stack application flow.
 
 ---
