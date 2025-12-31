@@ -24,13 +24,6 @@ I am a frontend-focused developer passionate about building functional and clean
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhana783&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana783&layout=compact)
-
----
-
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana123)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanachauhan133@gmail.com)
