@@ -12,13 +12,15 @@ I am a frontend-focused developer passionate about building functional and clean
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ---
 
 ### 🎯 Current Focus
-- ⚛️ **Refining React:** Deep diving into hooks, state management, and component architecture.
-- 🧱 **Full-Stack Logic:** Connecting frontend UIs to Node.js/Express APIs and MongoDB.
-- 💡 **Problem Solving:** Improving logic through consistent project-based learning.
+- ⚛️ **React Fundamentals** Practicing components, hooks, and state handling through projects
+- 🧱 **Frontend–Backend Flow** Understanding how frontend connects to Node.js APIs and databases
+- 💡 **Problem Solving** Improving logic through consistent project-based learning
 
 ---
 
